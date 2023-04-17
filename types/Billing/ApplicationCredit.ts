@@ -1,4 +1,4 @@
-export interface ApplicationCreditReponse {
+export interface ApplicationCreditResource {
   description: string
   id: number
   amount: number

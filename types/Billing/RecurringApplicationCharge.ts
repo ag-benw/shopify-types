@@ -1,4 +1,4 @@
-export interface ReccuringApplicationChargeReponse {
+export interface ReccuringApplicationChargeResource {
   activated_on: string | null
   billing_on: string | null
   cancelled_on: string | null

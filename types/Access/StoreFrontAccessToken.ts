@@ -1,4 +1,4 @@
-export interface StoreFrontAccessTokenReponse {
+export interface StoreFrontAccessTokenResource {
   id: Id
   access_token: AccessToken
   access_scope: AccessScope

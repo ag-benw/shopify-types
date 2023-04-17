@@ -1,4 +1,4 @@
-export interface CustomerAddressResponse {
+export interface CustomerAddressResource {
   address1: string
   address2: string
   city: string

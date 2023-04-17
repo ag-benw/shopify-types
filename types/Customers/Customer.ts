@@ -1,4 +1,4 @@
-export interface CustomerResponse {
+export interface CustomerResource {
   accepts_marketing: boolean
   accepts_marketing_updated_at: string
   addresses: Address[]

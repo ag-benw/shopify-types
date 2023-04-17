@@ -1,4 +1,4 @@
-export interface CustomerSavedSearchResponse {
+export interface CustomerSavedSearchResource {
   created_at: string
   id: number
   name: string

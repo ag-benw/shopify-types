@@ -1,4 +1,4 @@
-export interface UsageChargeResponse {
+export interface UsageChargeResource {
   created_at: string
   description: string
   id: number

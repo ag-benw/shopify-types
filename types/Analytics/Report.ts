@@ -1,4 +1,4 @@
-export interface ReportResponse {
+export interface ReportResource {
   category: string
   id: number
   name: string

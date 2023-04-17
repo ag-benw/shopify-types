@@ -1,4 +1,4 @@
-export interface AccessScopeResponse {
+export interface AccessScopeResource {
   access_scopes: AccessScope[]
 }
 

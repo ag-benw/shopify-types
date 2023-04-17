@@ -1,4 +1,4 @@
-export interface ApplicationChargeReponse {
+export interface ApplicationChargeResource {
   confirmation_url: string
   created_at: string
   id: number
